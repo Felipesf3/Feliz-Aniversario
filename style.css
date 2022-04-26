@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'corpo';
-    src: url('fabella-flower.ttf');
+    src: url('fabella-flower.ttf', type('truetype');
 }
 
 
